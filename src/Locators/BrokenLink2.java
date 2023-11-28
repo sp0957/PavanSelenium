@@ -20,6 +20,7 @@ public static void main(String[] args) throws MalformedURLException, IOException
 	driver.get("https://www.formify.pro/");
 	   SoftAssert a1=new SoftAssert();
 	   List<WebElement> link= driver.findElements(By.tagName("a"));
+	  
 	   
 	   
 	   for (int i = 0; i < link.size(); i++) {

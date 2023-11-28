@@ -2,26 +2,41 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/animal-sniffer-annotations-1.14.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/checker-compat-qual-2.0.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/error_prone_annotations-2.1.3.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/j2objc-annotations-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/jsr305-1.3.9.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/okio-1.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-api-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-chrome-driver-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-edge-driver-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-firefox-driver-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-ie-driver-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-java-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-opera-driver-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-remote-driver-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-safari-driver-3.141.0.jar"/>
-	<classpathentry kind="lib" path="D:/sahil_learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-support-3.141.0.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/client-combined-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/client-combined-3.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/selenium-jar-3.7.1-20230426T054118Z-001/selenium-jar-3.7.1/selenium-jar-3.7.1/webdriver/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-api-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-chrome-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-edge-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-firefox-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-ie-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-java-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-opera-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-remote-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-safari-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="D:/sahil_learn/Automation_testing_JAVA/Sahilselenium/jar_files/jar_files/selenium-support-3.141.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

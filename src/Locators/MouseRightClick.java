@@ -1,6 +1,7 @@
 package Locators;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -15,6 +16,6 @@ public static void main(String[] args) {
      WebElement button=driver.findElement(By.xpath("/html/body/div/section/div/div/div/p/span"));
      Actions action=new Actions(driver);
      action.contextClick(button).perform();
-	
+    
 }
 }
